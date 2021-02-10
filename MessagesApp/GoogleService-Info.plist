@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>561263488051-7oqf36riq2ra35f0omfvsrsl3qmvsgpg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561263488051-7oqf36riq2ra35f0omfvsrsl3qmvsgpg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUnobkGMQPyeSpt8igYe-PbxYR1Y8Y8u4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561263488051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>myapps.MessagesApp</string>
+	<key>PROJECT_ID</key>
+	<string>messageapp-74710</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messageapp-74710.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561263488051:ios:e1d79287bf996ed4e44746</string>
+	<key>DATABASE_URL</key>
+	<string>https://messageapp-74710-default-rtdb.firebaseio.com/</string>
+</dict>
+</plist>
